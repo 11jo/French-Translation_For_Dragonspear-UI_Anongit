@@ -1,5 +1,6 @@
 # French Translation For Dragonspear UI++ d'Anongit
 
+# Traduction française du mod Dragonspear UI++ (version d'Anongit)
 
 
 
@@ -9,6 +10,9 @@
 
 
 ## This version focus on the EET compatibility and others fixes
+
+
+## Cette version, basée sur celle de Pecca / Renegade, se concentre sur la compatibilité avec EET et d'autres corrections.
 
 
 
